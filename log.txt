@@ -1,0 +1,4 @@
+26/03/2021 16:08:27 - https://www.alura.com.br - online: true
+26/03/2021 16:08:37 - https://random-status-code.herokuapp.com - online: true
+26/03/2021 16:08:38 - https://www.caelum.com.br - online: true
+26/03/2021 16:08:38 - https://www.casadocodigo.com.br - online: true
